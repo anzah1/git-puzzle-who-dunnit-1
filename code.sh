@@ -1,4 +1,4 @@
 #!/bin/bash
 sum() {
-  echo $((1+1))
+  echo foo
 }
