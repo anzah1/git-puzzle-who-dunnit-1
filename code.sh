@@ -1,4 +1,4 @@
 #!/bin/bash
 sum() {
-  echo $((6+747))
+  echo $((1+1))
 }
